@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Java / Maven
+**/target/
+*.class
+
+# Angular
+node_modules/
+dist/
+.angular/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+.env.*
+!.env.example
